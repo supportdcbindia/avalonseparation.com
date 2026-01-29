@@ -255,7 +255,7 @@
     }
 
     .missionVissionContent h2 {
-        font-size: 25px !important;
+        font-size: 16px !important;
     }
 
     .missionVissionSec.bgLighGrey .missionVissionContent {
@@ -288,7 +288,8 @@
 
     .productDetailsPage .secBigTitle h5,
     .innerPage .secBigTitle h5 {
-        font-size: 18px !important;
+        font-size: 16px !important;
+        white-space: nowrap;
     }
 
     .productDetailsPage .secBigTitle,
@@ -413,6 +414,14 @@
     .ourApplicationGrid {
         grid-template-columns: 1fr 1fr 1fr;
         gap: 15px;
+    }
+
+    .MapSec {
+        margin: 0px;
+    }
+
+    .newFooter {
+        padding-bottom: 92px;
     }
 }
 
@@ -583,9 +592,18 @@
         max-width: 15%;
     }
 
+    .ContactUsFormSec .row {
+        gap: 25px;
+    }
+
+    .MapSec iframe {
+        min-height: 400px;
+    }
+
     .secTitle {
-        grid-template-columns: 1fr;
-        gap: 15px;
+        grid-template-columns: 1fr !important;
+        gap: 15px !important;
+        margin-bottom: 20px !important;
     }
 
     .firstShape,
@@ -694,8 +712,14 @@
         grid-template-columns: 1fr 1fr;
         gap: 15px;
     }
-    .ContactDetailsTopWrapper{
+
+    .ContactDetailsTopWrapper {
         grid-template-columns: 1fr 1fr;
+    }
+
+    .border-left {
+        padding-left: 15px;
+        border-left: 0px;
     }
 }
 
@@ -792,7 +816,15 @@
         grid-template-columns: 1fr;
         gap: 15px;
     }
+
     .ContactDetailsTopWrapper {
+        grid-template-columns: 1fr;
+    }
+
+    .inputGrid {
+        grid-template-columns: 1fr;
+    }
+    .keyBenifit ul{
         grid-template-columns: 1fr;
     }
 }

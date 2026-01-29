@@ -43,7 +43,7 @@
     <div class="customHeader">
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.php">
                     <img src="./assets/images/logo.webp" alt="" class="showLogo">
                     <img src="./assets/images/Logo-png-header.png" alt="" class="hideLogo">
                 </a>

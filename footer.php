@@ -3,7 +3,7 @@
         <div class="footer_border">
             <div class="footer_wrapper">
                 <div class="footer-socialmedia">
-                    <a href="/" class="footer_brand"><img src="assets/images/Logo-png-header.png" class="footer_brand-logo"></a>
+                    <a href="index.php" class="footer_brand"><img src="assets/images/Logo-png-header.png" class="footer_brand-logo"></a>
                     <div class="px-footer-widget px-footer-col-1 FooterDropImg">
                         <h4 class="px-footer-widget-title">Get In Touch</h4>
                         <div class="px-footer-widget-social FooterDektopNone">
