@@ -74,8 +74,8 @@
 }
 
 .desc p {
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 17px;
+    font-weight: 500;
     line-height: 32px;
     font-family: 'DM Sans';
     color: #525355;
@@ -623,7 +623,7 @@
 .services-fin__item .productTitle {
     left: 0;
     right: 0;
-    bottom: 50px;
+    top: 30px;
     text-align: center;
     position: absolute;
     display: inline-block;
@@ -631,7 +631,7 @@
 
 .services-fin__item .productTitle h5 {
     margin: 0px;
-    font-size: 120px;
+    font-size: 80px;
     font-weight: bold;
     line-height: 1;
     margin-bottom: 0;
@@ -1012,7 +1012,7 @@
     transition: 0.8s all;
     line-height: 32px;
     /* opacity: 0.6; */
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .newFooter .footer_wrapper .footer_content .footer_block ul a:hover {
@@ -1153,7 +1153,7 @@
 
 .AboutSecTitleWrapper .aboutSketch {
     text-align: right;
-    opacity: .1;
+    opacity: 0.6;
     max-width: 75%;
     margin: auto;
 }
@@ -1320,7 +1320,7 @@
 }
 
 .innerPage .desc p {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .missionVissionImg img, video.missionVissionImg {
@@ -1564,7 +1564,7 @@
 
 .productDetailsPage .secBigTitle h5,
 .innerPage .secBigTitle h5 {
-    font-size: 25px !important;
+    font-size: 28px !important;
     font-weight: 800 !important;
 }
 
@@ -2633,4 +2633,9 @@ li.nav-item.dropdown:hover .ourproductmenu {
 
 .FooterDektopNone{
     display: none !important;
+}
+
+.aboutUsInner {
+    border: none !important;
+    padding-bottom: 10px !important;
 }

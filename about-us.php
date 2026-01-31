@@ -53,7 +53,7 @@
 
                     <div class="counterContentItem">
                         <div class="countWrapper">
-                            <span class="count" data-target="130">0</span>
+                            <span class="count" data-target="282">0</span>
                             <span>+ <h5>Successful</h5></span>
                         </div>
                         <p> Projects Worldwide</p>
@@ -234,7 +234,7 @@
                     </div>
                     <div class="OurUspsContent">
                         <h5>Proven Track Record </h5>
-                        <p>Trusted by industries worldwide with 130+ successful projects delivered.</p>
+                        <p>Trusted by industries worldwide with 282+ successful projects delivered.</p>
                     </div>
                 </div>
 

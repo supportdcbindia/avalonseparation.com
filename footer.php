@@ -18,7 +18,7 @@
                     <div class="footer_block">
                         <h4 class="px-footer-widget-title-sm pre mb-25">Head Office</h4>
                         <ul>
-                            <li><a href="#!">Shed NO-59/1, Block No-574, <br> Tp-110, Nr.Shradhha Estate Hathijan, <br> Ta. Ahmedabad, Dist. Ahmedabad-382445</a></li>
+                            <li><a href="#!">Shed NO-59/1, Block No-574,<br>Tp-110, Nr.Shradhha Estate Hathijan,<br> Ahmedabad, Gujarat - 382445</a></li>
                         </ul>
                     </div>
                     <div class="footer_block">
@@ -34,12 +34,12 @@
                         <h4 class="px-footer-widget-title-sm pre mb-25">Our Products</h4>
                         <div class="px-footer-widget-menu">
                             <ul>
-                                <li><a href="avalon-screw-dehydrator.php">Avalon Screw Dehydrator</a></li>
+                                <li><a href="avalon-screw-dehydrator.php">Avalon Screw Dehydrator (ASD)</a></li>
                                 <li><a href="poly-prepartion-dosing-system.php">Poly Prepartion Dosing System</a></li>
-                                <li><a href="multiplet-screw-press-machine.php">Multiplet Screw Press Machine</a></li>
+                                <!-- <li><a href="multiplet-screw-press-machine.php">Multiplet Screw Press Machine</a></li> -->
                                 <li><a href="avalon-disk-separator.php">Avalon Disk Separator (ADS)</a></li>
                                 <li><a href="cationic-polyelectrolyte-powder.php">Cationic Polyelectrolyte Powder</a></li>
-                                <li><a href="industrial-sludge-dryer.php">Industrial Sludge Dryer</a></li>
+                                <!-- <li><a href="industrial-sludge-dryer.php">Industrial Sludge Dryer</a></li> -->
                             </ul>
                         </div>
                     </div>

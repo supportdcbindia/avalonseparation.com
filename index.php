@@ -32,8 +32,11 @@
         <div class="AboutImgWrapper">
             <div class="aboutImg">
                 <video id="myvid" playsinline="playsinline" class="bg-video" autoplay="autoplay" muted="muted" loop="loop">
-                    <source src="assets/images/video/avalonseparation-2.mp4">
-                    <source src="assets/images/video/avalonseparation-2.mp4" type="video/mp4">
+                    <!-- <source src="assets/images/video/avalonseparation-2.mp4">
+                    <source src="assets/images/video/avalonseparation-2.mp4" type="video/mp4"> -->
+
+                    <source src="assets/images/video/avalonseparation-1.mp4">
+                    <source src="assets/images/video/avalonseparation-1.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
@@ -49,7 +52,7 @@
 
                 <div class="counterContentItem">
                     <div class="countWrapper">
-                        <span class="count" data-target="232">0</span>
+                        <span class="count" data-target="282">0</span>
                         <span>+</span>
                     </div>
                     <p>Successful Cases Worldwide</p>
@@ -85,7 +88,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="text-slider-item">
-                            <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Avalon Screw Dehydrator</h2>
+                            <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Avalon Screw Dehydrator (ASD)</h2>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -125,7 +128,7 @@
                     <img src="assets/images/homeProduct/avalon-screw-dehydrator.png" alt="">
                 </div>
                 <div class="productTitle">
-                    <h5>Avalon Screw Dehydrator</h5>
+                    <h5>Avalon Screw Dehydrator (ASD)</h5>
                 </div>
             </div>
 

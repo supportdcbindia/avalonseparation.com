@@ -42,7 +42,19 @@
                           </div>
                       </div>
                   </div>
+
+                  <div class="col-md-12">
+                      <div class="AboutImgWrapper aboutUsInner">
+                          <div class="aboutImg">
+                              <video id="myvid" playsinline="playsinline" class="bg-video" autoplay="autoplay" muted="muted" loop="loop">
+                                  <source src="assets/images/video/avalonseparation-2.mp4">
+                                  <source src="assets/images/video/avalonseparation-2.mp4" type="video/mp4">
+                              </video>
+                          </div>
+                      </div>
+                  </div>
               </div>
+
           </div>
       </div>
 

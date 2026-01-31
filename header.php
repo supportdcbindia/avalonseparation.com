@@ -64,12 +64,12 @@
                                 Our Products
                             </a>
                             <ul class="dropdown-menu ourproductmenu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="avalon-screw-dehydrator.php">Avalon Screw Dehydrator</a></li>
+                                <li><a class="dropdown-item" href="avalon-screw-dehydrator.php">Avalon Screw Dehydrator (ASD)</a></li>
                                 <li><a class="dropdown-item" href="poly-prepartion-dosing-system.php">Poly Prepartion Dosing System</a></li>
-                                <li><a class="dropdown-item" href="multiplet-screw-press-machine.php">Multiplet Screw Press Machine</a></li>
+                                <!-- <li><a class="dropdown-item" href="multiplet-screw-press-machine.php">Multiplet Screw Press Machine</a></li> -->
                                 <li><a class="dropdown-item" href="avalon-disk-separator.php">Avalon Disk Separator (ADS)</a></li>
                                 <li><a class="dropdown-item" href="cationic-polyelectrolyte-powder.php">Cationic Polyelectrolyte Powder</a></li>
-                                <li><a class="dropdown-item" href="industrial-sludge-dryer.php">Industrial Sludge Dryer</a></li>
+                                <!-- <li><a class="dropdown-item" href="industrial-sludge-dryer.php">Industrial Sludge Dryer</a></li> -->
                             </ul>
                         </li>
                         <!-- <li class="nav-item">
