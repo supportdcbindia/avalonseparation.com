@@ -41,7 +41,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="productItem">
+                <!-- <div class="productItem">
                     <a href="multiplet-screw-press-machine.php" title="Multiplet Screw Press Machine">
                         <div class="productImage">
                             <img src="assets/images/newProduct/multiplet-screw-press-machine/multiplet-screw-press-machine.png" alt="">
@@ -50,7 +50,7 @@
                             <h5>Multiplet Screw Press Machine</h5>
                         </div>
                     </a>
-                </div>
+                </div> -->
                 <div class="productItem">
                     <a href="avalon-disk-separator.php" title="Avalon Disk Separator (Ads)">
                         <div class="productImage">
@@ -71,7 +71,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="productItem">
+                <!-- <div class="productItem">
                     <a href="industrial-sludge-dryer.php" title="Industrial Sludge Dryer">
                         <div class="productImage">
                             <img src="assets/images/newProduct/industrial-sludge-dryer/industrial-sludge-dryer.png" alt="">
@@ -80,7 +80,7 @@
                             <h5>Industrial Sludge Dryer</h5>
                         </div>
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
