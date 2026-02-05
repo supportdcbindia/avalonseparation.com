@@ -1153,7 +1153,7 @@
 
 .AboutSecTitleWrapper .aboutSketch {
     text-align: right;
-    opacity: 0.6;
+    opacity: 1;
     max-width: 75%;
     margin: auto;
 }
@@ -2638,4 +2638,42 @@ li.nav-item.dropdown:hover .ourproductmenu {
 .aboutUsInner {
     border: none !important;
     padding-bottom: 10px !important;
+}
+
+.banner-slider {
+  width: 100%;
+  overflow: hidden;
+}
+
+.banner-slider picture,
+.banner-slider img {
+  width: 100%;
+  display: block;
+}
+
+/* Desktop banner height */
+@media (min-width: 769px) and (max-width: 1536px) {
+  .banner-slider img {
+    height: 80vh;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 1536px) {
+  .banner-slider img {
+    height: 100vh;
+    object-fit: cover;
+  }
+}
+
+/* Mobile banner height */
+@media (max-width: 768px) {
+  .banner-slider img {
+    height: auto;
+    object-fit: cover;
+  }
+
+  .banner-slider {
+    padding-top: 100px;
+  }
 }

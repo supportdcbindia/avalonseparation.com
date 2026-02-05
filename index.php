@@ -1,10 +1,50 @@
 <?php include('header.php') ?>
-<section class="video-bg">
+<!-- <section class="video-bg">
     <video id="myvid" playsinline="playsinline" class="bg-video" autoplay="autoplay" muted="muted" loop="loop">
         <source src="assets/images/video/avalonseparation-1.mp4">
         <source src="assets/images/video/avalonseparation-1.mp4" type="video/mp4">
     </video>
+</section> -->
+
+<section class="banner-slider">
+  <div class="swiper bannerSwiper">
+    <div class="swiper-wrapper">
+
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <picture>
+          <!-- Mobile image -->
+          <source srcset="assets/images/banner/avalon-separation-mob-b1.webp" media="(max-width: 768px)">
+          <!-- Desktop image -->
+          <img src="assets/images/banner/avalon-separation-b1.webp" alt="Banner 1" class="w-100">
+        </picture>
+      </div>
+
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <picture>
+          <source srcset="assets/images/banner/avalon-separation-mob-b2.webp" media="(max-width: 768px)">
+          <img src="assets/images/banner/avalon-separation-b2.webp" alt="Banner 2" class="w-100">
+        </picture>
+      </div>
+
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <picture>
+          <source srcset="assets/images/banner/avalon-separation-mob-b3.webp" media="(max-width: 768px)">
+          <img src="assets/images/banner/avalon-separation-b3.webp" alt="Banner 3" class="w-100">
+        </picture>
+      </div>
+
+    </div>
+
+    <!-- Optional controls -->
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 </section>
+
 
 <div class="aboutUs CustomPending bgLighGrey">
     <div class="SecondShape">
@@ -125,7 +165,7 @@
         <div class="productGrid">
             <div class="services-fin__item an-pine-vanish service-stack">
                 <div class="productImg">
-                    <img src="assets/images/homeProduct/avalon-screw-dehydrator.png" alt="">
+                    <img src="assets/images/homeProduct/avalon-screw-dehydrator.webp" alt="">
                 </div>
                 <div class="productTitle">
                     <h5>Avalon Screw Dehydrator (ASD)</h5>
@@ -134,7 +174,7 @@
 
             <div class="services-fin__item an-pine-vanish service-stack">
                 <div class="productImg">
-                    <img src="assets/images/homeProduct/auto-polymer-dosing-system.png" alt="">
+                    <img src="assets/images/homeProduct/auto-polymer-dosing-system.webp" alt="">
                 </div>
                 <div class="productTitle">
                     <h5>Poly Prepartion Dosing System</h5>
@@ -143,7 +183,7 @@
 
             <div class="services-fin__item an-pine-vanish">
                 <div class="productImg">
-                    <img src="assets/images/homeProduct/avalon-disk-separator.png" alt="">
+                    <img src="assets/images/homeProduct/avalon-disk-separator.webp" alt="">
                 </div>
                 <div class="productTitle">
                     <h5>Avalon Disk Separator (ADS)</h5>
