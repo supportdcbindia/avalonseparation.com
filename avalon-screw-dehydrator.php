@@ -14,7 +14,7 @@
           </div>
           <div class="container">
               <div class="breadCrumsContent">
-                  <h1>Avalon Screw Dehydrator</h1>
+                  <h1>Avalon Screw Dehydrator (ASD)</h1>
               </div>
           </div>
       </div>
@@ -33,11 +33,11 @@
                   </div>
                   <div class="col-sm-12 col-md-7">
                       <div class="missionVissionContent">
-                          <h2>Avalon Screw Dehydrator</h2>
+                          <h2>Avalon Screw Dehydrator (ASD)</h2>
                           <div class="desc">
                               <h3>Advanced Sludge Dewatering Technology by Avalon Separation</h3>
                               <p>The Avalon Screw Dehydrator (ASD) is a next-generation sludge dewatering solution designed to deliver high efficiency, low operational cost, and reliable performance across industrial and municipal wastewater treatment applications.</p>
-                              <p>Developed with advanced engineering and smart automation, the Avalon Screw Dehydrator eliminates common challenges faced in traditional dewatering systems such as clogging, excessive power consumption, high maintenance, and operator dependency.
+                              <p>Developed with advanced engineering and smart automation, the Avalon Screw Dehydrator (ASD) eliminates common challenges faced in traditional dewatering systems such as clogging, excessive power consumption, high maintenance, and operator dependency.
                               </p>
                           </div>
                       </div>
@@ -68,9 +68,9 @@
                   </div>
                   <div class="col-sm-12 col-md-12">
                       <div class="missionVissionContent mt-4 pr-0">
-                          <h2>What is the Avalon Screw Dehydrator?</h2>
+                          <h2>What is the Avalon Screw Dehydrator (ASD)?</h2>
                           <div class="desc">
-                              <p>The Avalon Screw Dehydrator is a fully enclosed, continuous sludge dewatering system that utilizes a slow-speed screw shaft combined with moving and fixed rings to achieve effective solid-liquid separation.</p>
+                              <p>The Avalon Screw Dehydrator (ASD) is a fully enclosed, continuous sludge dewatering system that utilizes a slow-speed screw shaft combined with moving and fixed rings to achieve effective solid-liquid separation.</p>
                               <p>Unlike belt presses, centrifuges, or filter presses, this technology:</p>
                               <ul class="fourGird">
                                   <li><img src="assets/images/aboutPage/arrows.png" alt="">Operates at very low RPM</li>
@@ -190,7 +190,7 @@
       <div class="productDetailsSec CustomPending">
           <div class="container">
               <div class="secBigTitle ">
-                  <h5>Key Benefits of Avalon Screw Dehydrator</h5>
+                  <h5>Key Benefits of Avalon Screw Dehydrator (ASD)</h5>
               </div>
               <div class="keyBenifit">
                   <ul>
@@ -215,7 +215,7 @@
               <div class="row">
                   <div class="col-sm-12 col-md-6 pr-5">
                       <div class="desc">
-                          <p>The Avalon Screw Dehydrator is designed for complete process automation and can be easily integrated with:</p>
+                          <p>The Avalon Screw Dehydrator (ASD) is designed for complete process automation and can be easily integrated with:</p>
                           <ul>
                               <li><img src="assets/images/aboutPage/arrows.png" alt="">Polymer dosing systems</li>
                               <li><img src="assets/images/aboutPage/arrows.png" alt="">Sludge feed pumps</li>
@@ -249,7 +249,7 @@
                       </div>
                       <div class="desc">
                           <p>Traditional sludge treatment requires pre-thickening before dewatering.</p>
-                          <p>The Avalon Screw Dehydrator eliminates this requirement.</p>
+                          <p>The Avalon Screw Dehydrator (ASD) eliminates this requirement.</p>
                           <p>Thanks to its advanced filtration structure, it can process sludge with as low as 0.4% solids concentration, enabling direct dewatering from oxidation ditches without additional thickening tanks.</p>
                           <p>This results in:</p>
                           <ul>
@@ -285,7 +285,7 @@
                           <h5>Energy-Efficient Performance</h5>
                       </div>
                       <div class="desc">
-                          <p>The Avalon Screw Dehydrator operates with:</p>
+                          <p>The Avalon Screw Dehydrator (ASD) operates with:</p>
                           <ul>
                               <li><img src="assets/images/aboutPage/arrows.png" alt="">Power consumption as low as 0.01–0.1 kWh/kg-DS</li>
                               <li><img src="assets/images/aboutPage/arrows.png" alt="">Up to 20× lower energy usage than centrifuges</li>
@@ -463,7 +463,7 @@
                       <h5>Applications</h5>
                   </div>
                   <div class="desc">
-                      <p>The Avalon Screw Dehydrator is widely used across multiple industries:</p>
+                      <p>The Avalon Screw Dehydrator (ASD) is widely used across multiple industries:</p>
                   </div>
               </div>
               <div class="ProductAppGrid">
