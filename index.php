@@ -65,7 +65,7 @@
                 <p><b>Avalon Separation</b> was founded in 2015, and we have accomplished so much over the years. To create a world where Avalon Separation is a leading growing company in solid-liquid separation of industrial & municipal wastewater. Avalon Separation is always eager to provide customers with professional consulting services, cost-effective solutions and products of top quality and high performance as well as for customization. We always consider environmental and economical benefits for the customers.</p>
                 <p>Our leading products are sludge de-watering screw dehydrator, poly preparation and dosing system, sludge thickener, and mobile sludge dewatering unit. This can be widely used in several industries such as pharmaceuticals, food & beverages, oil and gas, dairy, textile, printing and dying, biogas, livestock and so more.</p>
                 <div class="themeBtn mt-4">
-                    <a href="#!">Read More <img src="assets/images/RightArrow.svg" alt=""></a>
+                    <a href="about-us.php">Read More <img src="assets/images/RightArrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
