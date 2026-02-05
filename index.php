@@ -164,30 +164,36 @@
     <div class="container container-2xl">
         <div class="productGrid">
             <div class="services-fin__item an-pine-vanish service-stack">
-                <div class="productImg">
-                    <img src="assets/images/homeProduct/avalon-screw-dehydrator.webp" alt="">
-                </div>
-                <div class="productTitle">
-                    <h5>Avalon Screw Dehydrator (ASD)</h5>
-                </div>
+                <a href="avalon-screw-dehydrator.php">
+                    <div class="productImg">
+                        <img src="assets/images/homeProduct/avalon-screw-dehydrator.webp" alt="">
+                    </div>
+                    <div class="productTitle">
+                        <h5>Avalon Screw Dehydrator (ASD)</h5>
+                    </div>
+                </a>
             </div>
 
             <div class="services-fin__item an-pine-vanish service-stack">
-                <div class="productImg">
-                    <img src="assets/images/homeProduct/auto-polymer-dosing-system.webp" alt="">
-                </div>
-                <div class="productTitle">
-                    <h5>Poly Prepartion Dosing System</h5>
-                </div>
+                <a href="poly-prepartion-dosing-system.php">
+                    <div class="productImg">
+                        <img src="assets/images/homeProduct/auto-polymer-dosing-system.webp" alt="">
+                    </div>
+                    <div class="productTitle">
+                        <h5>Poly Prepartion Dosing System</h5>
+                    </div>
+                </a>
             </div>
 
             <div class="services-fin__item an-pine-vanish">
-                <div class="productImg">
-                    <img src="assets/images/homeProduct/avalon-disk-separator.webp" alt="">
-                </div>
-                <div class="productTitle">
-                    <h5>Avalon Disk Separator (ADS)</h5>
-                </div>
+                <a href="avalon-disk-separator.php">
+                    <div class="productImg">
+                        <img src="assets/images/homeProduct/avalon-disk-separator.webp" alt="">
+                    </div>
+                    <div class="productTitle">
+                        <h5>Avalon Disk Separator (ADS)</h5>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
