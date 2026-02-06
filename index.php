@@ -92,7 +92,7 @@
 
                 <div class="counterContentItem">
                     <div class="countWrapper">
-                        <span class="count" data-target="282">0</span>
+                        <span class="count" data-target="288">0</span>
                         <span>+</span>
                     </div>
                     <p>Successful Cases Worldwide</p>
