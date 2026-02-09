@@ -136,11 +136,11 @@
                             <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Auto Poly Dosing System</h2>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    <!-- <div class="swiper-slide">
                         <div class="text-slider-item">
                             <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Sludge Dryers</h2>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- <div class="swiper-slide">
                         <div class="text-slider-item">
                             <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Avalon Screw Dehydrator ( Model ASD)</h2>
