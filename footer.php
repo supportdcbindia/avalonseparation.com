@@ -18,7 +18,7 @@
                     <div class="footer_block">
                         <h4 class="px-footer-widget-title-sm pre mb-25">Head Office</h4>
                         <ul>
-                            <li><a href="#!">Shed NO-59/1, Block No-574, Tp-110, Nr.Shradhha Estate Hathijan, Ta. Ahmedabad, Dist. Ahmedabad-382445</a></li>
+                            <li><a href="#!">Shed NO-59/1, Block No-574, Tp-110, Nr.Shradhha Estate Hathijan,<br> Ta. Ahmedabad, Dist. <br> Ahmedabad-382445</a></li>
                         </ul>
                     </div>
                     <div class="footer_block">
