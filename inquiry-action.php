@@ -50,7 +50,7 @@ if (IS_DOMESTIC == true) {
   $country_code = '';
 }
 
-$websiteDomain = "allvege.co.in"; ## for example dudhat.in OR dudhat.com
+$websiteDomain = "avalonseparation.com"; ## for example dudhat.in OR dudhat.com
 $allowed_origins = array(
   'https://' . $websiteDomain,
   'https://www.' . $websiteDomain,
