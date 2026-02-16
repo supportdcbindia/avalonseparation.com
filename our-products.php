@@ -30,6 +30,10 @@
                             <h5>Avalon Screw Dehydrator</h5>
                         </div>
                     </a>
+                    <div class="prod-landing-btns themeBtn">
+                        <a href="avalon-screw-dehydrator.php" class="viewMoreBtn">View More</a>
+                        <a href="javascript:;" class="click1">Get Quote</a>
+                    </div>
                 </div>
                 <div class="productItem">
                     <a href="poly-prepartion-dosing-system.php" title="Poly Prepartion Dosing System">
@@ -40,6 +44,10 @@
                             <h5>Poly Prepartion Dosing System</h5>
                         </div>
                     </a>
+                    <div class="prod-landing-btns themeBtn">
+                        <a href="poly-prepartion-dosing-system.php" class="viewMoreBtn">View More</a>
+                        <a href="javascript:;" class="click1">Get Quote</a>
+                    </div>
                 </div>
                 <!-- <div class="productItem">
                     <a href="multiplet-screw-press-machine.php" title="Multiplet Screw Press Machine">
@@ -54,12 +62,16 @@
                 <div class="productItem">
                     <a href="avalon-disk-separator.php" title="Avalon Disk Separator (Ads)">
                         <div class="productImage">
-                            <img src="assets/images/newProduct/avalon-disk-separator/avalon-disk-separator.jpeg" alt="">
+                            <img src="assets/images/newProduct/avalon-disk-separator/avalon-disk-separator.jpg" alt="">
                         </div>
                         <div class="productContent">
                             <h5>Avalon Disk Separator (ADS)</h5>
                         </div>
                     </a>
+                    <div class="prod-landing-btns themeBtn">
+                        <a href="avalon-disk-separator.php" class="viewMoreBtn">View More</a>
+                        <a href="javascript:;" class="click1">Get Quote</a>
+                    </div>
                 </div>
                 <div class="productItem">
                     <a href="cationic-polyelectrolyte-powder.php" title="Cationic Polyelectrolyte Powder">
@@ -70,6 +82,10 @@
                             <h5>Cationic Polyelectrolyte Powder</h5>
                         </div>
                     </a>
+                    <div class="prod-landing-btns themeBtn">
+                        <a href="cationic-polyelectrolyte-powder.php" class="viewMoreBtn">View More</a>
+                        <a href="javascript:;" class="click1">Get Quote</a>
+                    </div>
                 </div>
                 <!-- <div class="productItem">
                     <a href="industrial-sludge-dryer.php" title="Industrial Sludge Dryer">

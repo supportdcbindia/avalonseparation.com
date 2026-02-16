@@ -7,42 +7,42 @@
 </section> -->
 
 <section class="banner-slider">
-  <div class="swiper bannerSwiper">
-    <div class="swiper-wrapper">
+    <div class="swiper bannerSwiper">
+        <div class="swiper-wrapper">
 
-      <!-- Slide 1 -->
-      <div class="swiper-slide">
-        <picture>
-          <!-- Mobile image -->
-          <source srcset="assets/images/banner/avalon-separation-mob-b1.webp" media="(max-width: 768px)">
-          <!-- Desktop image -->
-          <img src="assets/images/banner/avalon-separation-b1.webp" alt="Banner 1" class="w-100">
-        </picture>
-      </div>
+            <!-- Slide 1 -->
+            <div class="swiper-slide">
+                <picture>
+                    <!-- Mobile image -->
+                    <source srcset="assets/images/banner/avalon-separation-mob-b1.webp" media="(max-width: 768px)">
+                    <!-- Desktop image -->
+                    <img src="assets/images/banner/avalon-separation-b1.webp" alt="Banner 1" class="w-100">
+                </picture>
+            </div>
 
-      <!-- Slide 2 -->
-      <div class="swiper-slide">
-        <picture>
-          <source srcset="assets/images/banner/avalon-separation-mob-b2.webp" media="(max-width: 768px)">
-          <img src="assets/images/banner/avalon-separation-b2.webp" alt="Banner 2" class="w-100">
-        </picture>
-      </div>
+            <!-- Slide 2 -->
+            <div class="swiper-slide">
+                <picture>
+                    <source srcset="assets/images/banner/avalon-separation-mob-b2.webp" media="(max-width: 768px)">
+                    <img src="assets/images/banner/avalon-separation-b2.webp" alt="Banner 2" class="w-100">
+                </picture>
+            </div>
 
-      <!-- Slide 3 -->
-      <div class="swiper-slide">
-        <picture>
-          <source srcset="assets/images/banner/avalon-separation-mob-b3.webp" media="(max-width: 768px)">
-          <img src="assets/images/banner/avalon-separation-b3.webp" alt="Banner 3" class="w-100">
-        </picture>
-      </div>
+            <!-- Slide 3 -->
+            <div class="swiper-slide">
+                <picture>
+                    <source srcset="assets/images/banner/avalon-separation-mob-b3.webp" media="(max-width: 768px)">
+                    <img src="assets/images/banner/avalon-separation-b3.webp" alt="Banner 3" class="w-100">
+                </picture>
+            </div>
 
+        </div>
+
+        <!-- Optional controls -->
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
     </div>
-
-    <!-- Optional controls -->
-    <div class="swiper-pagination"></div>
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-  </div>
 </section>
 
 
@@ -130,14 +130,14 @@
                         <div class="text-slider-item">
                             <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Avalon Screw Dehydrator
 
-</h2>
+                            </h2>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="text-slider-item">
                             <h2 class="title"><img src="assets/images/3dLogo.png" alt="image">Poly Preparation Dosing System
 
-</h2>
+                            </h2>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -391,60 +391,72 @@
 <section class="inqueryForm CustomPending section-padding">
     <div class="container">
         <form class="form-horizontal bg-whilte form3" action="inquiry-action.php" method="post" novalidate="novalidate">
-            <input type="hidden" name="recaptcha" id="recaptcha2" class="recaptcha2">
+
             <div class="row">
                 <div class="col-sm-12 col-md-4">
                     <div class="form-group">
                         <input name="name" id="name" type="text" placeholder="Enter Your Name" class="form-control">
                     </div>
                 </div>
+
                 <div class="col-sm-12 col-md-4">
                     <div class="form-group">
                         <input name="company_name" id="company_name" type="text" placeholder="Enter Company Name" class="form-control">
                     </div>
                 </div>
+
                 <div class="col-sm-12 col-md-4">
                     <div class="form-group">
                         <input name="email" id="email" type="text" placeholder="Enter Your E-mail" class="form-control">
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="form-group">
-                        <input name="number" id="number" type="tel" placeholder="Enter Phone Number" maxlength="15" minlength="8" class="form-control number21">
+                        <input name="number" id="number" type="tel" placeholder="Enter Phone Number"
+                            maxlength="15" minlength="10" class="form-control number21">
                     </div>
                 </div>
+
                 <div class="col-sm-12 col-md-6">
                     <div class="form-group">
                         <input name="city" id="city" type="text" placeholder="Enter Your City" class="form-control">
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="form-group">
-                        <textarea class="form-control" name="message" id="message" placeholder="Enter Your Requirement"></textarea>
+                        <textarea class="form-control" name="message" id="message"
+                            placeholder="Enter Your Requirement"></textarea>
                     </div>
                 </div>
+
                 <div class="col-sm-12 col-md-6">
                     <div class="form-group">
                         <div class="captchaGrid">
                             <div class="captchaInput">
-                                <input name="captcha" id="captcha" placeholder="Captcha Code" class="form-control" type="text">
+                                <input name="captcha" id="captcha" placeholder="Captcha Code"
+                                    class="form-control" type="text">
                             </div>
                             <div class="captchaImg">
                                 <img src="captcha.php" class="capside">
                             </div>
                         </div>
                     </div>
+
                     <div class="form-group has-feedback">
-                        <input name="submit" class="submit submitbutton" type="submit" value="Submit Now!">
+                        <input name="submit" class="submit submitbutton"
+                            type="submit" value="Submit Now!">
                     </div>
                 </div>
             </div>
 
         </form>
+
     </div>
 </section>
 

@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 
+    <link rel="stylesheet" href="assets/css/sidebar-btn.css">
+    <link rel="stylesheet" href="assets/css/model-custom.css">
+
     <!-- <link rel="stylesheet" href="https://dcbwebsite.in/akshar-copack-new-one/assets/css/main.css"> -->
 
     <style>
@@ -36,9 +39,30 @@
             display: block;
         }
     </style>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPZCM5F7');</script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+</script>
 </head>
 
 <body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPZCM5F7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<?php include('pop-model.php'); ?>
 
     <div class="customHeader">
         <nav class="navbar navbar-expand-lg navbar-light ">

@@ -21,7 +21,7 @@
 
       <div class="missionVissionSec CustomPending">
           <div class="container">
-              <div class="row">
+              <div class="row align-items-center">
                   <div class="col-sm-12 col-md-5">
                       <video id="myvid" playsinline="playsinline" class="missionVissionImg" autoplay="autoplay" muted="muted" loop="loop">
                           <source src="assets/images/newProduct/avalon-screw-dehydrator/Avalon-Screw-Dehydrator-video.mp4">
@@ -40,6 +40,7 @@
                               <p>Developed with advanced engineering and smart automation, the Avalon Screw Dehydrator (ASD) eliminates common challenges faced in traditional dewatering systems such as clogging, excessive power consumption, high maintenance, and operator dependency.
                               </p>
                           </div>
+                          <?php include('inner-inq-btns.php'); ?>
                       </div>
                   </div>
 

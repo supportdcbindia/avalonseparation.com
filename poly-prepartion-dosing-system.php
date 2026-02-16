@@ -22,7 +22,7 @@
       <div class="missionVissionSec CustomPending">
           <div class="container">
 
-              <div class="row">
+              <div class="row align-items-center">
                   <div class="col-sm-12 col-md-6">
                       <div class="missionVissionImg">
                           <img src="assets/images/newProduct/auto-polymer-dosing-system/auto-polymer-dosing-system.png" alt="">
@@ -36,6 +36,7 @@
                               <p>The Poly Preparation Dosing System from Avalon Separation is a compact, fully automated unit designed for precise preparation, maturation, and dosing of liquid or powder polymers. The system ensures uniform flocculant concentration while minimizing footprint, making it ideal for modern water and wastewater treatment facilities.</p>
                               <p>Also known as polymer dosing systems, powder dosing systems, or PAM / PAC dosing systems, this solution delivers reliable and consistent polymer preparation with minimal operator intervention.</p>
                           </div>
+                          <?php include('inner-inq-btns.php'); ?>
                       </div>
                   </div>
               </div>

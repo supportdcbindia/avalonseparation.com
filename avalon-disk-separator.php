@@ -21,7 +21,7 @@
 
       <div class="missionVissionSec CustomPending">
           <div class="container">
-              <div class="row">
+              <div class="row align-items-center">
                   <div class="col-sm-12 col-md-6">
                       <div class="missionVissionImg">
                           <img src="assets/images/newProduct/avalon-disk-separator/avalon-disk-separator.jpeg" alt="">
@@ -33,8 +33,8 @@
                           <div class="desc">
                               <h3>High-Efficiency Solid–Liquid Separation by Avalon Separation</h3>
                               <p>The Avalon Disk Separator (ADS) by Avalon Separation is an advanced solid–liquid separation system engineered for high performance, continuous operation, and minimal maintenance. Designed for modern industrial and municipal treatment plants, ADS delivers reliable screening, thickening, and dewatering with exceptional efficiency.</p>
-
                           </div>
+                          <?php include('inner-inq-btns.php'); ?>
                       </div>
                   </div>
               </div>

@@ -67,38 +67,64 @@
                             <p>We will keep the information you send on file. Should a need arise we will reach out to you. We value your time and our time greatly.</p>
                         </div>
                     </div>
-                    <form class="form-horizontal form3" action="inquiry-action.php" method="post" novalidate="novalidate">
-                        <div class="inputGrid">
-                            <div class="form-group has-feedback">
-                                <input name="name" id="name" type="text" placeholder="Name" class="form-control">
-                            </div>
-                            <div class="form-group has-feedback">
-                                <input name="email" id="email" type="text" placeholder="E-Mail Address" class="form-control">
-                            </div>
-                        </div>
-                        <div class="inputGrid">
-                            <div class="form-group has-feedback class-feedback">
-                                <input name="city" id="city" type="text" placeholder="City" class="form-control">
-                            </div>
-                            <div class="form-group has-feedback">
-                                <input name="number" id="number" type="tel" placeholder="Phone" maxlength="15" minlength="10" class="form-control number21">
-                            </div>
-                        </div>
-                        <div class="form-group has-feedback">
-                            <textarea class="form-control" name="message" id="message" placeholder="Requirement"></textarea>
-                        </div>
-                        <div class="inputCaptchaGrid">
-                            <div class="form-group has-feedback">
-                                <input name="captcha" id="captcha" placeholder="Captcha Code" class="form-control" type="text">
-                            </div>
-                            <img src="captcha.php" class="capside">
-                        </div>
-                        <div class="form-group has-feedback">
-                            <div class="col-md-12 col-sm-3 col-xs-12">
-                                <input name="submit" class="submit submitbutton" type="submit" value="Submit Now!">
-                            </div>
-                        </div>
-                    </form>
+                    <form class="form-horizontal form4" action="inquiry-action.php" method="post"
+                                novalidate="novalidate">
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <input name="name" id="name" type="text" placeholder="Name"
+                                            class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <input name="company_name" id="company_name" type="text" placeholder="Company Name"
+                                            class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <input name="email" id="email" type="text" placeholder="E-Mail Address"
+                                            class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback class-feedback">
+                                    <div class="col-md-12">
+                                        <input name="city" id="city" type="text" placeholder="City"
+                                            class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <input name="number" id="number" type="tel" placeholder="Phone" maxlength="15"
+                                            minlength="10" class="form-control number21">
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <textarea class="form-control" name="message" id="message"
+                                            placeholder="Requirement"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12">
+                                        <div class="row">
+                                            <div class="col-md-8 col position-relative">
+                                                <input name="captcha" id="captcha" placeholder="Captcha Code"
+                                                    class="form-control" type="text">
+                                            </div>
+                                            <div class="col-md-4 col">
+                                                <img src="captcha.php" class="capside">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group has-feedback">
+                                    <div class="col-md-12 col-sm-3 col-xs-12">
+                                        <input name="submit" class="submit submitbutton" type="submit"
+                                            value="Submit Now!">
+                                    </div>
+                                </div>
+                            </form>
                 </div>
             </div>
         </div>

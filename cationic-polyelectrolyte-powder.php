@@ -21,7 +21,7 @@
 
       <div class="missionVissionSec CustomPending">
           <div class="container">
-              <div class="row">
+              <div class="row align-items-center">
                   <div class="col-sm-12 col-md-6">
                       <div class="missionVissionImg">
                           <img src="assets/images/newProduct/cationic-polyelectrolyte-powder/cationic-polyelectrolyte-powder.png" alt="">
@@ -34,6 +34,7 @@
                               <h3>Manufacturer & Supplier by Avalon Separation</h3>
                               <p>Avalon Separation is a trusted Cationic Polyelectrolyte Powder manufacturer and supplier, offering high-performance chemical solutions for efficient water and sludge treatment applications. Our products are designed to deliver excellent flocculation, faster solid–liquid separation, and reduced operating costs across multiple industries.</p>
                           </div>
+                          <?php include('inner-inq-btns.php'); ?>
                       </div>
                   </div>
               </div>

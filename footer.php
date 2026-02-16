@@ -5,7 +5,7 @@
                 <div class="footer-socialmedia">
                     <a href="index.php" class="footer_brand"><img src="assets/images/logo.webp" class="footer_brand-logo"></a>
                     <div class="px-footer-widget px-footer-col-1 FooterDropImg">
-                        <h4 class="px-footer-widget-title">Get In Touch</h4>
+                        <a href="javascript:;" class="click1"><h4 class="px-footer-widget-title">Get In Touch</h4></a>
                         <div class="px-footer-widget-social FooterDektopNone">
                             <a href="#!"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="#!"><i class="fa-brands fa-linkedin"></i></a>
@@ -596,3 +596,7 @@
         }
     });
 </script>
+
+<script src="assets/js/jquery.validate.min.js"></script>
+<script src="assets/js/index.js"></script>
+<script src="assets/js/form-buzz.js"></script>
