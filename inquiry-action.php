@@ -182,9 +182,9 @@ if ($response->result) {
                 $mail->AddAddress($to_email, $subject_line);
                 $mail->SetFrom($from_email, $subject_line);
 
-                // if (!empty($cc_email)) {
-                //   $mail->AddCC($cc_email, $subject_line);
-                // }
+                if (!empty($cc_email)) {
+                  $mail->AddCC($cc_email, $subject_line);
+                }
                 
                 $mail->AddBCC(DCB_INQUIRY_EMAIL, $subject_line);
                 $mail->addReplyTo($email, $subject_line);
