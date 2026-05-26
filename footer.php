@@ -25,7 +25,7 @@
                         <h4 class="px-footer-widget-title-sm pre mb-25">Contacts</h4>
                         <ul>
                             <li><a href="tel:+919974698010">+91 99746 98010</a> <br> <a href="tel:+918238093522">+91 82380 93522</a></li>
-                            <li><a href="mailto:info@avalonseparaion.com">info@avalonseparation.com</a>
+                            <li><a href="mailto:info@avalonseparaion.com">sales@avalonseparation.com</a>
                             </li>
                         </ul>
                     </div>

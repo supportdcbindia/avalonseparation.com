@@ -5,7 +5,7 @@ return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|h
 $companyname = "Avalon Separation";
 $phone = "+91 99746 98010"; /* FORMATE: +91 00000 00000 */
 $whatappphone = $whatappphone1 = "919974698010";/* FORAMTE: 91000000000 */
-$email = "info@avalonseparation.com";
+$email = "sales@avalonseparation.com";
 $logo = "assets/images/logo.webp"; /* FORMATE: images/logo3.png */
 $message = "Hello Team ".$companyname.", I was going through your Website, Please connect me for product discussion.";
 ?>

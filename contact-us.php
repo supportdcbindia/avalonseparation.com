@@ -43,7 +43,7 @@
                     </div>
                     <h5>Email Now</h5>
                     <ul>
-                        <li><a href="mailto:info@avalonseparaion.com">info@avalonseparation.com</a></li>
+                        <li><a href="mailto:info@avalonseparaion.com">sales@avalonseparation.com</a></li>
                     </ul>
                 </div>
             </div>
