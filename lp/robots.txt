@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sludge-screw-press.lovable.app/sitemap.xml
