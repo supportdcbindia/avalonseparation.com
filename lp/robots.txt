@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sludge-screw-press.lovable.app/sitemap.xml
+Sitemap: https://avalonseparation.com/lp/sitemap.xml
